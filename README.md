@@ -9,3 +9,5 @@
 
 ### Donate me a cup of specialty coffee here ☕️
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y4FZBX5)
+
+![Visitor count](https://komarev.com/ghpvc/?username=ryanrw&color=red)
